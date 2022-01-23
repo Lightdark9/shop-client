@@ -9,15 +9,15 @@
             <div class="swiper-slide">
               <img src="./images/home/banner1.jpg" />
             </div>
-            <div class="swiper-slide">
-              <img src="./images/home/banner2.jpg" />
-            </div>
-            <div class="swiper-slide">
-              <img src="./images/home/banner3.jpg" />
-            </div>
-            <div class="swiper-slide">
-              <img src="./images/home/banner4.jpg" />
-            </div>
+<!--            <div class="swiper-slide">-->
+<!--              <img src="./images/home/banner2.jpg" />-->
+<!--            </div>-->
+<!--            <div class="swiper-slide">-->
+<!--              <img src="./images/home/banner3.jpg" />-->
+<!--            </div>-->
+<!--            <div class="swiper-slide">-->
+<!--              <img src="./images/home/banner4.jpg" />-->
+<!--            </div>-->
           </div>
           <!-- 如果需要分页器 -->
           <div class="swiper-pagination"></div>
