@@ -37,6 +37,8 @@ VueRouter.prototype.push = function (location,resolve,reject) {
 
 
 
+/**git改过的东西
+*/
 
 
 //配置路由
