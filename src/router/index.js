@@ -34,7 +34,9 @@ VueRouter.prototype.push = function (location,resolve,reject) {
         originPush.call(this,location,()=>{},()=>{});
     }
 }
-
+/**
+ * 不可以的
+ */
 
 
 /**git改过的东西
