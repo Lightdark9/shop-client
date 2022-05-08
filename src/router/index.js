@@ -37,7 +37,9 @@ VueRouter.prototype.push = function (location,resolve,reject) {
 /**
  * 不可以的
  */
-
+/**
+ * 应该可以
+ */
 
 /**git改过的东西
 */
